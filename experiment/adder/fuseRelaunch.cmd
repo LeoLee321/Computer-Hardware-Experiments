@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/49292/Desktop/hardware/adder/adder_isim_beh.exe" -prj "C:/Users/49292/Desktop/hardware/adder/adder_beh.prj" "work.adder" 

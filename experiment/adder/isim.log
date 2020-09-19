@@ -1,0 +1,32 @@
+ISim log file
+Running: C:\Users\49292\Desktop\hardware\adder\adder_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/49292/Desktop/hardware/adder/adder_isim_beh.wdb 
+INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# put A 0
+# put B 1
+# put Cin 1
+Cin: No such HDL object
+# put Ci 1
+# run 10ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# put A 1
+# put B 1
+# put Ci 0
+# run 10ns
+# put A 0
+# put B 1
+# put Ci 0
+# run 10ns
+# put A 1
+# put B 1
+# put Ci 1
+# run 10ns

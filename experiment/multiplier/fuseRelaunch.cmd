@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/49292/Desktop/hardware/multiplier/multiplier_isim_beh.exe" -prj "C:/Users/49292/Desktop/hardware/multiplier/multiplier_beh.prj" "work.multiplier" 

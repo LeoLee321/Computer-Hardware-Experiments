@@ -1,0 +1,33 @@
+ISim log file
+Running: C:\Users\49292\Desktop\hardware\multiplier\multiplier_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/49292/Desktop/hardware/multiplier/multiplier_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /multiplier/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+Finished circuit initialization process.
+# restart
+# put A 5 -radix dec
+# put B 6 –radix dec
+Incorrect usage of command 'put'
+Usage: put <hdl_object_name> <value> [-radix <type>]
+for detailed help use 'help put'
+B: Illegal literal for enumeration type
+# put b 6 -radix dec
+# run 10ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# put a 12 -radix dec
+# put b 13 -radix dec
+# run 10ns
+# put a 100 -radix dec
+# put b 101 -radix dec
+# run 10ns
+# put a 1111 -radix dec
+# put b 1234
+b: Illegal literal for enumeration type
+# put b 1234 -radix dec
+# run 10ns
