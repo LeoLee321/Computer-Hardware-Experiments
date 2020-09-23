@@ -1,0 +1,4 @@
+vhdl isim_temp "myxor.vhd"
+vhdl isim_temp "myand.vhd"
+vhdl isim_temp "halfadder.vhd"
+vhdl isim_temp "halfaddertest.vhd"

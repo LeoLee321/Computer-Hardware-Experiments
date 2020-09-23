@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="fulladder.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="fulladder.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="fulladder.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="fulladder.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="fulladder.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="fulladder.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="fulladder.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="fulladder.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="fulladder.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="fulladder.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="fulladder.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fulladder.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="fulladder.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="fulladder.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="fulladder.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="fulladder.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="fulladder.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="fulladder.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="fulladder.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="fulladder.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="fulladder_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="fulladder_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="fulladder_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="fulladder_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="fulladder_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="fulladder_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="fulladder_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fulladder_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fulladder_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="fulladder_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="fulladder_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fulladder_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="fulladder_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="fulladder_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="fulladder_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="fulladder_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="fulladdertest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="halfadder.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="halfadder.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="halfadder.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="halfadder.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="halfadder.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="halfadder.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="halfadder.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="halfadder.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="halfadder.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfadder.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="halfadder.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="halfadder.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="halfadder.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="halfadder.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="halfadder.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="halfadder.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="halfadder_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="halfadder_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="halfadder_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="halfadder_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="halfadder_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="halfadder_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="halfadder_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="halfadder_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfaddertest_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="halfaddertest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="halfaddertest_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="halfaddertest_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="myxor.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="myxor.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="myxor.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="myxor.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="myxor.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="myxor.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="myxor.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="myxor.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="myxor_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="myxor_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1600764747" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1600764747">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600768797" xil_pn:in_ck="-4819969410460939436" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1600768797">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fulladder.vhd"/>
+      <outfile xil_pn:name="fulladdertest.vhd"/>
+      <outfile xil_pn:name="halfadder.vhd"/>
+      <outfile xil_pn:name="halfaddertest.vhd"/>
+      <outfile xil_pn:name="myand.vhd"/>
+      <outfile xil_pn:name="myxor.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1600768797" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-771866660169928869" xil_pn:start_ts="1600768797">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600768797" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="6156793403263752697" xil_pn:start_ts="1600768797">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600766689" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-2009854900135420716" xil_pn:start_ts="1600766689">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600768797" xil_pn:in_ck="-4819969410460939436" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1600768797">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fulladder.vhd"/>
+      <outfile xil_pn:name="fulladdertest.vhd"/>
+      <outfile xil_pn:name="halfadder.vhd"/>
+      <outfile xil_pn:name="halfaddertest.vhd"/>
+      <outfile xil_pn:name="myand.vhd"/>
+      <outfile xil_pn:name="myxor.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1600768800" xil_pn:in_ck="-4819969410460939436" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-7821974890088817732" xil_pn:start_ts="1600768797">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="halfaddertest_beh.prj"/>
+      <outfile xil_pn:name="halfaddertest_isim_beh.exe"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1600768800" xil_pn:in_ck="-2572927397829724338" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6110229118055124993" xil_pn:start_ts="1600768800">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="halfaddertest_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1600763631" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1600763631">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600766576" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-3174958368498838164" xil_pn:start_ts="1600766576">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600766576" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-2009854900135420716" xil_pn:start_ts="1600766576">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600763631" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1600763631">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600766576" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="3864660598638180622" xil_pn:start_ts="1600766576">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600763631" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1600763631">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600766576" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-6591231017766485282" xil_pn:start_ts="1600766576">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600766658" xil_pn:in_ck="-5113091079442848442" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="2469200807392406865" xil_pn:start_ts="1600766645">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="fulladder.lso"/>
+      <outfile xil_pn:name="fulladder.ngc"/>
+      <outfile xil_pn:name="fulladder.ngr"/>
+      <outfile xil_pn:name="fulladder.prj"/>
+      <outfile xil_pn:name="fulladder.stx"/>
+      <outfile xil_pn:name="fulladder.syr"/>
+      <outfile xil_pn:name="fulladder.xst"/>
+      <outfile xil_pn:name="fulladder_xst.xrpt"/>
+      <outfile xil_pn:name="halfadder.ngr"/>
+      <outfile xil_pn:name="myxor.ngr"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1600767176" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-2744847092822116167" xil_pn:start_ts="1600767176">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1600767185" xil_pn:in_ck="1837107973632876671" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-4591821341639195451" xil_pn:start_ts="1600767176">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="fulladder.bld"/>
+      <outfile xil_pn:name="fulladder.ngd"/>
+      <outfile xil_pn:name="fulladder_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1600767212" xil_pn:in_ck="-352981417240424356" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="2100985583056581773" xil_pn:start_ts="1600767185">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="fulladder.pcf"/>
+      <outfile xil_pn:name="fulladder_map.map"/>
+      <outfile xil_pn:name="fulladder_map.mrp"/>
+      <outfile xil_pn:name="fulladder_map.ncd"/>
+      <outfile xil_pn:name="fulladder_map.ngm"/>
+      <outfile xil_pn:name="fulladder_map.xrpt"/>
+      <outfile xil_pn:name="fulladder_summary.xml"/>
+      <outfile xil_pn:name="fulladder_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1600767252" xil_pn:in_ck="5744282627571130030" xil_pn:name="TRANEXT_par_virtex5" xil_pn:prop_ck="-2283627392121029586" xil_pn:start_ts="1600767212">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="fulladder.ncd"/>
+      <outfile xil_pn:name="fulladder.pad"/>
+      <outfile xil_pn:name="fulladder.par"/>
+      <outfile xil_pn:name="fulladder.ptwx"/>
+      <outfile xil_pn:name="fulladder.unroutes"/>
+      <outfile xil_pn:name="fulladder.xpi"/>
+      <outfile xil_pn:name="fulladder_pad.csv"/>
+      <outfile xil_pn:name="fulladder_pad.txt"/>
+      <outfile xil_pn:name="fulladder_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1600767252" xil_pn:in_ck="2337456489120422100" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1600767236">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="fulladder.twr"/>
+      <outfile xil_pn:name="fulladder.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

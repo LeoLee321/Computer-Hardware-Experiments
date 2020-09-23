@@ -1,0 +1,3 @@
+vhdl work "myxor.vhd"
+vhdl work "myand.vhd"
+vhdl work "halfadder.vhd"

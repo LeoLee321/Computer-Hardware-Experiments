@@ -1,0 +1,4 @@
+work	"fulladder.vhd"
+work	"halfadder.vhd"
+work	"myand.vhd"
+work	"myxor.vhd"
