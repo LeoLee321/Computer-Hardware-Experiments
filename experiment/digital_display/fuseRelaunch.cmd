@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/49292/Desktop/Computer Hardware Experiments/experiment/digital_display/led_isim_beh.exe" -prj "C:/Users/49292/Desktop/Computer Hardware Experiments/experiment/digital_display/led_beh.prj" "work.led" 

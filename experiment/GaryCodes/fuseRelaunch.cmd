@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/49292/Desktop/Computer Hardware Experiments/experiment/GaryCodes/encoder_isim_beh.exe" -prj "C:/Users/49292/Desktop/Computer Hardware Experiments/experiment/GaryCodes/encoder_beh.prj" "work.encoder" 

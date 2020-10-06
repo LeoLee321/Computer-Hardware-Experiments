@@ -1,0 +1,47 @@
+ISim log file
+Running: C:\Users\49292\Desktop\Computer Hardware Experiments\experiment\digital_display\led_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/49292/Desktop/Computer Hardware Experiments/experiment/digital_display/led_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# put B0 0
+B0: No such HDL object
+# put B 0
+# put B 0
+# put B 0
+# run 10ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# put B 0
+# put B 0
+# put B 1
+# run 10ns
+# cls
+# restart
+# put B 0000
+# run 10ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# put B 0001
+# run 10ns
+# put B 0010
+# run 10ns
+# put B 0011
+# run 10ns
+# put B 0100
+# run 10ns
+# put B 0101
+# run 10ns
+# put B 0110
+# run 10ns
+# put B 0111
+# run 10ns
+# put B 1000
+# run 10ns
+# put B 1001
+# run 10ns
